@@ -56,7 +56,7 @@ namespace WpfApp6
                 try
                 {
 
-                    ClientSocket.Connect(IPAddress.Parse("10.1.18.4"), 27001);
+                    ClientSocket.Connect(IPAddress.Parse("10.1.18.39"), 27001);
                 }
                 catch (Exception ex)
                 {
